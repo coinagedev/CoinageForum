@@ -1,0 +1,44 @@
+{
+  "name": "coinage",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "history": "^4.7.2",
+    "install": "^0.10.1",
+    "material-ui": "^1.0.0-beta.11",
+    "material-ui-icons": "^1.0.0-beta.10",
+    "npm": "^5.5.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.2",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.6.2",
+    "react-native": "^0.48.3",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-native": "^4.2.0",
+    "react-router-redux": "^5.0.0-alpha.6",
+    "react-scripts": "1.0.13",
+    "redux": "^3.7.2",
+    "redux-multi": "^0.1.91",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "firebase deploy"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.2"
+  },
+  "description": "This is Coinage Cryptocurrency Discussion Board website Repo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coinagedev/CoinageForum.git"
+  },
+  "author": "coinage",
+  "license": "MIT"
+}
